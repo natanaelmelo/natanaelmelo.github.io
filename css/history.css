@@ -1,0 +1,20 @@
+/* 
+ * Menu de Navegação
+ */
+ .nav-item .nav-link {
+    padding: 15px;
+ }
+ .nav-tabs .active {
+    color: #000000;
+ }
+
+  #corpo a {
+    color: rgb(255, 193, 7);
+    border: rgb(255, 193, 7);
+ }
+ #corpo a:hover {
+    color: #ffffff;
+    background-color:rgb(255, 193, 7); 
+ }
+ 
+ 

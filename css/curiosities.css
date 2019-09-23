@@ -1,0 +1,28 @@
+/* 
+ *
+ */
+
+ #bandeira {
+    height: 200px;
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 80px;
+ }
+
+ #descricao {
+    padding: 40px;
+    float: right;
+    width: 400px;
+    height: 200px;
+    margin-bottom: 30px;
+ }
+
+ #bandeira_descricao {
+    text-align: center;
+ }
+
+ #cartoes1 {
+     margin-top: 50px;
+ }

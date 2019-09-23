@@ -1,0 +1,53 @@
+/* 
+ * Animation Camadas
+ */
+#botao button {
+    border: none;
+    padding: 5px;
+    font-weight: bold; 
+}
+.grim h3 {
+    font-weight: bold;
+}
+.grim span {
+    font-weight: bold;
+}
+
+#modaisquotes button {
+    font-weight: bold;
+}
+
+#modaisquotes button:hover {
+    background-color: #ffffff;
+    color: black;
+    border: #000000;
+    font-weight: bold;
+}
+
+#modaisquotes .btn-warning {
+    margin: 20px;
+}
+
+#modaisquotes .btn-secondary {
+    background-color: rgb(204, 67, 67);
+    color: #000000;
+}
+
+#modaisquotes .btn-secondary:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+#modaisquotes h5 {
+    color: black;
+}
+
+#modaisquotes p {
+    color: black;
+}
+#mensagem p{
+    color: #ffffff;
+}
+.modal-body p {
+    font-style: italic;
+}
+
